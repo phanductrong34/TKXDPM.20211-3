@@ -7,7 +7,7 @@ Lê Chiến Thắng 20187276
 Trần Anh Dũng 20187228
 
 Phân công công việc 
--Việc chung:
+- Việc chung:
     + Đi phỏng vấn doanh nghiệp, lấy yêu cầu phần mềm
     + Tổng hợp và thảo luận về các yêu cầu
 - Việc cá nhân
